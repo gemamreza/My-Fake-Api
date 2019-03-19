@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "gema",
+      "password": "030297",
+      "role": "admin"
+    },
+    {
+      "username": "muhammad",
+      "password": "reza",
+      "email": "muhammadreza@gmail.com",
+      "phone": "889988877",
+      "id": 2,
+      "role": "user"
+    },
+    {
+      "username": "kaka",
+      "password": "KAKA123",
+      "email": "KAKA@gmail.com",
+      "phone": "99",
+      "id": 3,
+      "role": "user"
+    },
+    {
+      "username": "gemamreza@gmail.com",
+      "role": "user",
+      "id": 4
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "nama": "Kaos Thankinsomnia",
+      "harga": 150000,
+      "discount": 20,
+      "category": "sablon",
+      "deskripsi": "Kaos Thankinsomnia",
+      "img": "https://ecs7.tokopedia.net/img/cache/700/product-1/2017/8/31/4594859/4594859_2e3eab78-39f3-452c-9a56-92c577f3a03c_750_750.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "Denim Thankinsomnia",
+      "harga": 420000,
+      "discount": 50,
+      "category": "painted",
+      "deskripsi": "Jaket Denim ini dibuat oleh Thanksinsomnia.co, dengan painting yang mantap dikerjakan secara profesional",
+      "img": "https://lh4.googleusercontent.com/proxy/v2Ck1CZuYiBd6Zmjddj7RDvuebdwmuc5CJL24lsgKU4PWZLBhM3id1K8NPofCAAWOGyXG7ni4B6K4HmcNLh9tmxJLXWctgrZ2p17p-F95bCccbWXXfm8uQAnXD4=w1200-h630-p-k-no-nu"
+    },
+    {
+      "id": 3,
+      "nama": "Kaos CDG",
+      "harga": 400000,
+      "discount": 0,
+      "category": "sablon",
+      "deskripsi": "Kaos Comme Des garcons",
+      "img": "https://cdn.shopify.com/s/files/1/1011/6760/products/CDG_P1T034-W-WHITE-RED-A_1024x1024.jpg?v=1494348383"
+    },
+    {
+      "nama": "CDG Strips",
+      "harga": "550000",
+      "discount": 40,
+      "category": "sablon",
+      "img": "https://www.dhresource.com/0x0s/f2-albu-g6-M00-CC-37-rBVaR1rsEtuAQ_2oAAJb1D_iJ1c702.jpg/2018-qualit-aaa-vacances-coeur-c030a-noir.jpg",
+      "deskripsi": "Comme Des Garcons stripss",
+      "id": 4
+    },
+    {
+      "nama": "Palace",
+      "harga": "2000000",
+      "discount": "90",
+      "category": "sablon",
+      "img": "https://img.priceza.co.id/img2/2003009/0066/2003009-20170629182557-9773402010135239.jpg",
+      "deskripsi": "PNY",
+      "id": 5
+    },
+    {
+      "nama": "stussy ",
+      "harga": "8000000",
+      "discount": "0",
+      "category": "sablon",
+      "img": "data:image/jpeg;base64,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",
+      "deskripsi": "stussy world tour",
+      "id": 6
+    }
+  ],
+  "cart": [],
+  "history": []
+}
